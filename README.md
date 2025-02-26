@@ -1,0 +1,1 @@
+# vscode-green-screen-theme
