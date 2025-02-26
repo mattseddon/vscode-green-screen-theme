@@ -10,6 +10,7 @@
   "author": {
     "name": "Matt Seddon"
   },
+  "icon": "images/icon/logo.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.97.0"
