@@ -1,7 +1,7 @@
 {
   "name": "vscode-green-screen-theme",
   "displayName": "Green Screen",
-  "description": "A dark theme which brings Visual Studio Code back to the green screen era.",
+  "description": "A green screen theme for VS Code",
   "repository": {
     "type": "git",
     "url": "https://github.com/mattseddon/vscode-green-screen-theme"
