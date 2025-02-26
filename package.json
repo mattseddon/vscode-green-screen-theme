@@ -1,0 +1,29 @@
+{
+  "name": "vscode-green-screen-theme",
+  "displayName": "vscode-green-screen-theme",
+  "description": "A dark theme which brings Visual Studio Code back to the green screen era.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mattseddon/vscode-green-screen-theme"
+  },
+  "publisher": "mattseddon",
+  "author": {
+    "name": "Matt Seddon"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Green Screen",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Green Screen-color-theme.json"
+      }
+    ]
+  }
+}
